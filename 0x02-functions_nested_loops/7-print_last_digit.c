@@ -12,7 +12,7 @@ a = d % 10;
 if (a < 0)
 {
 _putchar(-a + 48);
-return(-a);
+return (-a);
 }
 else
 {
