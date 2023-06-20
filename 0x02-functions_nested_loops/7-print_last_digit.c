@@ -12,7 +12,7 @@ int a;
 a = d % 10; 
 if (d < 0)
 {
-d = -d;
+_putchar(-d + 48);
 }
 else
 {
