@@ -3,11 +3,11 @@
 /**
  * reset_to_98- function resets the value 98
  *
- *@n- pointer to the variable
+ *@n- input
  *Return: nothing
  */
 
 void reset_to_98(int *n)
 {
-  *n = 98;
+*n = 98;
 )
