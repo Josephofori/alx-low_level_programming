@@ -35,7 +35,7 @@ return (NULL);
 for (c = 0; c < a; c++)
 strout[c] = s1[c];
 
-limit = b;
+lim = b;
 for (b = 0; b <= lim; c++, b++)
 strout[c] = s2[b];
 
