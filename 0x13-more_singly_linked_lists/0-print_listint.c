@@ -1,5 +1,10 @@
 #include "lists.h"
 
+/**
+ * listint_t -struct
+ *
+ * Return: numbers of nodes.
+ */
 size_t print_listint(const listint_t *h)
 {
 size_t nodes = 0;
